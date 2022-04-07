@@ -1,0 +1,70 @@
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\appsettings.Development.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\appsettings.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.exe
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.deps.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.runtimeconfig.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.pdb
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.AssemblyReference.cache
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.GeneratedMSBuildEditorConfig.editorconfig
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.AssemblyInfoInputs.cache
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.AssemblyInfo.cs
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.CoreCompileInputs.cache
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.MvcApplicationPartsAssemblyInfo.cs
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.MvcApplicationPartsAssemblyInfo.cache
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\staticwebassets.build.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\staticwebassets.development.json
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\scopedcss\bundle\WalkingSkeletonService.styles.css
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.CopyComplete
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\refint\WalkingSkeletonService.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.pdb
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.genruntimeconfig.cache
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\ref\WalkingSkeletonService.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Humanizer.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\MySqlConnector.dll
+E:\S6\Own project\Project\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\appsettings.Development.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\appsettings.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.exe
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.deps.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.runtimeconfig.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\WalkingSkeletonService.pdb
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Humanizer.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\MySqlConnector.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.AssemblyReference.cache
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.GeneratedMSBuildEditorConfig.editorconfig
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.AssemblyInfoInputs.cache
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.AssemblyInfo.cs
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.CoreCompileInputs.cache
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.MvcApplicationPartsAssemblyInfo.cs
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.MvcApplicationPartsAssemblyInfo.cache
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\staticwebassets.build.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\staticwebassets.development.json
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\scopedcss\bundle\WalkingSkeletonService.styles.css
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.csproj.CopyComplete
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\refint\WalkingSkeletonService.dll
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.pdb
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\WalkingSkeletonService.genruntimeconfig.cache
+E:\S6\Own project\Project\Walking skeleton\WalkingSkeletonService\WalkingSkeletonService\obj\Debug\net6.0\ref\WalkingSkeletonService.dll

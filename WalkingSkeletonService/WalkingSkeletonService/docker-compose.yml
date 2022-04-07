@@ -1,0 +1,17 @@
+﻿version: '3.0'
+
+services:
+   db:
+     image: mysql:5.7
+     environment:
+       MYSQL_DATABASE: walkingskeletondb
+       MYSQL_ROOT_PASSWORD: root
+     ports:
+       - "8091:3306" 
+     volumes:
+       - dbdata:/var/lib/mysql
+       - ./_MySQL_Init_Script:/docker-entrypoint-initdb.d
+     restart: always
+
+volumes:
+    dbdata:
